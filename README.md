@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://github.com/asror-coder1.png" width="160" height="160" style="border-radius: 50%;" alt="Asror Fayzullayev" />
-
   <h1>Hello, I'm Asror! 👋</h1>
   <p><strong>Fullstack Developer | Java & Python Enthusiast</strong></p>
 
-  <img src="https://github-profile-achievements.vercel.app/api?username=asror-coder1&theme=tokyonight&compact=1" width="280" />
+  <img src="https://github-profile-achievements.vercel.app/api?username=asror-coder1&theme=tokyonight&compact=1" width="300" />
 </div>
 
 ---
