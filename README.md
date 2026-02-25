@@ -1,7 +1,15 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Asror%20Fayzullayev&fontSize=50&desc=Fullstack%20Developer&descSize=20" width="100%"/>
 
-  <img src="https://github.com/asror-coder1.png" width="150" style="border-radius: 50%;" />
+  <br>
+
+  <table>
+    <tr>
+      <td style="border: none;">
+        <img src="https://github.com/asror-coder1.png" width="150" height="150" style="border-radius: 50%;" alt="Asror"/>
+      </td>
+    </tr>
+  </table>
   
   <h1>Hello, I'm Asror! 👋</h1>
 </div>
