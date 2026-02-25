@@ -1,4 +1,4 @@
-<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/1ff4a56f-96a2-44dc-bde6-a58fbf129481" /><h1 align="center">Hi 👋, I'm Asror Fayzullayev</h1>
+<img width="1919" height="984" alt="image" /><h1 align="center">Hi 👋, I'm Asror Fayzullayev</h1>
 <h3 align="center">🚀 Frontend & Backend Developer from Uzbekistan 🇺🇿</h3>
 
 ---
