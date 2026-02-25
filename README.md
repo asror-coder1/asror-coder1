@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Asror%20Fayzullayev&fontSize=50&desc=Fullstack%20Developer&descSize=20" width="100%"/>
 
   <br>
-
+  
   <table>
     <tr>
       <td style="border: none;">
