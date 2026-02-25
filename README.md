@@ -1,4 +1,4 @@
-<img width="1919" height="984" alt="image" /><h1 align="center">Hi 👋, I'm Asror Fayzullayev</h1>
+<h1 align="center">Hi 👋, I'm Asror Fayzullayev</h1>
 <h3 align="center">🚀 Frontend & Backend Developer from Uzbekistan 🇺🇿</h3>
 
 ---
@@ -14,20 +14,6 @@
 ## 🛠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asror-coder1&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asror-coder1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
