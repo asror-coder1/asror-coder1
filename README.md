@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://github.com/asror-coder1.png" width="160" height="160" style="border-radius: 50%;" alt="Asror Fayzullayev" />
-
   <h1>Salom, men Asror! 👋</h1>
   <p><strong>Fullstack Developer | Java & Python Enthusiast</strong></p>
 </div>
