@@ -1,6 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=200&section=header&text=Asror%20Fayzullayev&fontSize=50&desc=Fullstack%20Developer&descSize=20" width="100%"/>
-  <h1>Salom, men Asror! 👋</h1>
+
+  <img src="https://github.com/asror-coder1.png" width="150" style="border-radius: 50%;" />
+  
+  <h1>Hello, I'm Asror! 👋</h1>
 </div>
 
 ---
@@ -8,14 +11,14 @@
 ### 👨‍💻 Men haqimda
 - 🚀 **Fullstack Developer** (Frontend & Backend)
 - 📍 Tashkent, Uzbekistan
-- 🌱 Hozirda **React, Node.js va MongoDB** ustida ishlayapman.
+- 🌱 Hozirda **React, Node.js, Java va Python** ustida ishlayapman.
 
 ---
 
 ### 🛠 Texnologiyalarim
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,express,mongodb,tailwind,git,github,vscode" />
   </a>
 </p>
 
