@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Hello, I'm Asror! 👋</h1>
   <p><strong>Fullstack Developer | Java & Python Enthusiast</strong></p>
+
+  <img src="https://github-profile-achievements.vercel.app/api?username=asror-coder1&theme=tokyonight&compact=1" width="300" />
 </div>
 
 ---
